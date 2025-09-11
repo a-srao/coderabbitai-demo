@@ -1,5 +1,5 @@
 from util import greet_user
-from hellos import greet_admin
+from hello import greet_admin
 def main():
     
     user_name="World"
